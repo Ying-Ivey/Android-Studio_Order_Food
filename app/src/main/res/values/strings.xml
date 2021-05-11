@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BTQuaTrinh_Lan1_DatMonQuaTinNhan</string>
+
+    <string name="logo">Logo Đặt Trà Sữa Ngon</string>
+
+    <string name="titleDatTraSua">Đặt Trà Sữa</string>
+    <string name="titleChonSize">Chọn Size, Topping</string>
+    <string name="Size">Size: </string>
+    <string name="Topping">Topping: </string>
+    <string name="SizeS">Size S</string>
+    <string name="SizeM">Size M</string>
+    <string name="SizeL">Size L</string>
+
+    <string name="Tranchau">Trân Châu</string>
+    <string name="Tranchautrang">Trân Châu Trắng</string>
+    <string name="KemCheese">Kem Cheese</string>
+    <string name="PuddingTr">Pudding Trứng</string>
+    <string name="PuddingTS">Pudding Trà Sữa</string>
+
+    <string name="TitleChonLoai">Chọn Loại Trà</string>
+    <string name="Loai">Loại Trà: </string>
+
+    <string name="tradenma">Trà Đen Macchiaato</string>
+    <string name="tradao">Trà Đào Cam Sả</string>
+    <string name="tralai">Trà Lài Macchiato</string>
+    <string name="trasen">Trà Hạt Sen</string>
+    <string name="traphucbontu">Trà Phúc Bồn Tử</string>
+    <string name="trasuamacca">Trà Sữa Mắc Ca Trân Châu</string>
+
+    <string name="txtinputSL">Nhập Số Lượng</string>
+    <string name="SoLuong">Số Lượng:</string>
+    <string name="inputSL">1</string>
+    <string name="GhiChu">Ghi Chú:</string>
+    <string name="txtGhiChu">Ví dụ: 70% Đường, 50% Đá,...</string>
+    <string name="btnGuiTin">Gửi Tin Nhắn</string>
+    <string name="contenImg">Hình trà đã đặt</string>
+    <string name="btnThongTinTra">Thông tin chi tiết</string>
+    <string name="btnHienThiLoaiTraDaDat">OK</string>
+    <string name="btnHienThiDiaDiem">Hiển thị địa điểm</string>
+    <string name="btnQuayLai">Quay lại trang trước</string>
+    <string name="TitleKetQuaChon">Thông Tin Loại Trà Bạn Đã Chọn</string>
+    <string name="txtnhapSDT">Nhập số điện thoại</string>
+
+</resources>
